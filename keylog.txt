@@ -1,0 +1,2 @@
+ [Key.shift] Hello , [Key.backspace]  [Key.shift] !
+im  [Key.shift] Gautam  [Key.shift] Singh [Key.ctrl] c
